@@ -1,0 +1,14 @@
+News-Classifier
+
+
+This code was developed as a part of an academic assignment. Aim of the code is to classify news based articles using Naive bayesian classifier.
+To run the code use ./news_classifier.py test1.txt . "test1.txt" can be replaced with any text file. 4 test files are already given.
+
+The code used 4 different categories of articles for training and classifies a new article into only these 4 categories. These categories are: Movies, Politics, Scitech, Sports.
+
+File Description:
+news_classifier.py- Actual Code.
+data.csv- Has training data for classifier.
+Training data is inside folders.
+test.txt, test2.txt, test3.txt, test4.tx- Test data files
+
